@@ -1,10 +1,10 @@
 import 'package:alpha2_countries/alpha2_countries.dart';
-import 'package:covid19counter/constants/colors.dart';
-import 'package:covid19counter/services/CaseCount.dart';
-import 'package:covid19counter/services/Connection.dart';
-import 'package:covid19counter/widgets/LoadingPageColumn.dart';
+import 'package:aplicativocovid/constants/colors.dart';
+import 'package:aplicativocovid/services/CaseCount.dart';
+import 'package:aplicativocovid/services/Connection.dart';
+import 'package:aplicativocovid/widgets/LoadingPageColumn.dart';
 import 'package:flutter/material.dart';
-import 'package:covid19counter/services/Defaultcountry.dart';
+import 'package:aplicativocovid/services/Defaultcountry.dart';
 
 class Load extends StatefulWidget {
   @override

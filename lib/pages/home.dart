@@ -1,9 +1,9 @@
 import 'package:alpha2_countries/alpha2_countries.dart';
-import 'package:covid19counter/constants/colors.dart';
-import 'package:covid19counter/services/CaseCount.dart';
-import 'package:covid19counter/widgets/DisplayCard.dart';
+import 'package:aplicativocovid/constants/colors.dart';
+import 'package:aplicativocovid/services/CaseCount.dart';
+import 'package:aplicativocovid/widgets/DisplayCard.dart';
 import 'package:flutter/material.dart';
-import 'package:covid19counter/services/Defaultcountry.dart';
+import 'package:aplicativocovid/services/Defaultcountry.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 
 class Home extends StatefulWidget {

@@ -1,7 +1,7 @@
-import 'package:covid19counter/constants/colors.dart';
-import 'package:covid19counter/services/Connection.dart';
-import 'package:covid19counter/services/WorldCount.dart';
-import 'package:covid19counter/widgets/LoadingPageColumn.dart';
+import 'package:aplicativocovid/constants/colors.dart';
+import 'package:aplicativocovid/services/Connection.dart';
+import 'package:aplicativocovid/services/WorldCount.dart';
+import 'package:aplicativocovid/widgets/LoadingPageColumn.dart';
 import 'package:flutter/material.dart';
 
 class LoadWorld extends StatefulWidget {

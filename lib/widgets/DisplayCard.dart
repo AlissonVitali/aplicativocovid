@@ -1,4 +1,4 @@
-import 'package:covid19counter/constants/colors.dart';
+import 'package:aplicativocovid/constants/colors.dart';
 import 'package:flutter/material.dart';
 
 class DisplayCard extends StatelessWidget {

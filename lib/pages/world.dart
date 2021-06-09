@@ -1,5 +1,5 @@
-import 'package:covid19counter/constants/colors.dart';
-import 'package:covid19counter/widgets/DisplayCard.dart';
+import 'package:aplicativocovid/constants/colors.dart';
+import 'package:aplicativocovid/widgets/DisplayCard.dart';
 import 'package:flutter/material.dart';
 
 class World extends StatefulWidget {
